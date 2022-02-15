@@ -2,6 +2,17 @@
     background-image: linear-gradient(45deg, var(--eco), var(--smoke), var(--sun));
 }
 
-.footer-docs {
-    z-index: 11;
+.footer-docs, .modal {
+    z-index: 15 !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .w-40 {  width: 50%;  }
+    .flt-rgt { float: none; }
+}
+@media only screen and (max-width: 768px) {
+    .w-40 {  width: 60%;  }
+}
+@media only screen and (max-width: 540px) {
+    .w-40 {  width: 75%;  }
 }
