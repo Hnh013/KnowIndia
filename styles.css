@@ -5,3 +5,14 @@
 .footer-docs {
     z-index: 11;
 }
+
+@media only screen and (max-width: 992px) {
+    .w-40 {  width: 50%;  }
+    .flt-rgt { float: none; }
+}
+@media only screen and (max-width: 768px) {
+    .w-40 {  width: 60%;  }
+}
+@media only screen and (max-width: 540px) {
+    .w-40 {  width: 75%;  }
+}
