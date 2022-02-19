@@ -37,8 +37,8 @@ At this moment, current list of components/pages that are present in the applica
 * At the current stage of development, HTML , CSS and vanilla JS have been used in the project.
 
 ## 4. Motivations behind the project<a name="motivations-behind-the-project"></a>
-* This project was built as part of my learning of HTML and CSS in neogcamp 2022.
-* The projects also hopes make the people aware of various facts and figures and other information about our country India in a fun and competitive way.
+* This project was built as part of my learning in neogcamp 2022.
+* The project also hopes make the people aware of various facts and figures and other information about our country India in a fun and competitive way.
 
 ## 5. Demo<a name="demo"></a>
 
