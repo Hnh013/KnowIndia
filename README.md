@@ -25,11 +25,11 @@ At current stage only static (HTML, CSS & JS) templates have been developed for 
 
 At this moment, current list of components/pages that are present in the application are :
 
-1. Home Page https://know-india-git-development-hnh013.vercel.app/index.html
-2. Rules Page https://know-india-git-development-hnh013.vercel.app/components/rules.html
-3. Category Page https://know-india-git-development-hnh013.vercel.app/components/category.html
-4. Question Page https://know-india-git-development-hnh013.vercel.app/components/question.html
-5. Result Page https://know-india-git-development-hnh013.vercel.app/components/result.html
+1. Home Page [Link](https://knowindiaquiz.netlify.app/index.html)
+2. Rules Page [Link](https://knowindiaquiz.netlify.app/components/category.html)
+3. Category Page [Link](https://knowindiaquiz.netlify.app/components/rules.html)
+4. Question Page [Link](https://knowindiaquiz.netlify.app/components/question.html)
+5. Result Page [Link](https://knowindiaquiz.netlify.app/components/result.html)
 
 ## 2. Purpose of the project<a name="purpose-of-the-project"></a>
 * The main aim of the project is to create a user-friendly, easily to navigate and fun quiz environment for the players.
@@ -44,21 +44,23 @@ At this moment, current list of components/pages that are present in the applica
 
 ## 5. Demo<a name="demo"></a>
 
-#### The project is live at : https://know-india-git-development-hnh013.vercel.app/
+### The project is live at 
+#### Vercel : https://know-india-git-development-hnh013.vercel.app/
+#### Netlify : https://knowindiaquiz.netlify.app
 
-#### Home Page https://know-india-git-development-hnh013.vercel.app/index.html
+#### Home Page [Link](https://knowindiaquiz.netlify.app/index.html)
 ![home page](./images/demo_home.png)
 
-#### Category Page  https://know-india-git-development-hnh013.vercel.app/components/category.html
+#### Category Page [Link](https://knowindiaquiz.netlify.app/components/category.html)
 ![category page](./images/demo_category.png)
 
-#### Rules Page  https://know-india-git-development-hnh013.vercel.app/components/rules.html
+#### Rules Page [Link](https://knowindiaquiz.netlify.app/components/rules.html)
 ![rules page](./images/demo_rules.png)
 
-#### Question Page  https://know-india-git-development-hnh013.vercel.app/components/question.html
+#### Question Page [Link](https://knowindiaquiz.netlify.app/components/question.html)
 ![question page](./images/demo_question.png)
 
-#### Result Page  https://know-india-git-development-hnh013.vercel.app/components/result.html
+#### Result Page [Link](https://knowindiaquiz.netlify.app/components/result.html)
 ![result page](./images/demo_result.png)
 
 [Back To Top](#top)
