@@ -5,7 +5,9 @@
 The current application is still a WIP (work in progress) and hence all the functions may or may not work in the intended manner.     
 At current stage only static (HTML, CSS & JS) templates have been developed for the respective components/pages.     
 
-#### Live Project Link : https://know-india-git-development-hnh013.vercel.app/
+### Live Project Link 
+#### Vercel : https://know-india-git-development-hnh013.vercel.app/
+#### Netlify : https://knowindiaquiz.netlify.app/
 
 ## Contents
 
