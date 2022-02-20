@@ -26,8 +26,8 @@ At current stage only static (HTML, CSS & JS) templates have been developed for 
 At this moment, current list of components/pages that are present in the application are :
 
 1. Home Page [Link](https://knowindiaquiz.netlify.app/index.html)
-2. Rules Page [Link](https://knowindiaquiz.netlify.app/components/category.html)
-3. Category Page [Link](https://knowindiaquiz.netlify.app/components/rules.html)
+2. Rules Page [Link](https://knowindiaquiz.netlify.app/components/rules.html)
+3. Category Page [Link](https://knowindiaquiz.netlify.app/components/category.html)
 4. Question Page [Link](https://knowindiaquiz.netlify.app/components/question.html)
 5. Result Page [Link](https://knowindiaquiz.netlify.app/components/result.html)
 
